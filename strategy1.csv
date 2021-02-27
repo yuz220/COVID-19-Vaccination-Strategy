@@ -1,0 +1,8 @@
+﻿prename,week_end,sex,Groups,numtotal_atleast1dose,numtotal_1dose,numtotal_2doses,prop_atleast1dose,prop_1dose,prop_2doses
+Canada,2021/2/13,all,0-17,1059,983,76,0.029491,0.027375,0.002117
+Canada,2021/2/13,all,18-69,497311,400912,96399,3.815321,3.075473,0.739848
+Canada,2021/2/13,all,70+,180052,143974,36078,21.978699,17.615065,4.363634
+Canada,2021/2/13,all,Health care workers targeted for priority vaccination,406852,320556,86296,50.93615,40.13226,10.80389
+Canada,2021/2/13,all,Group living settings for seniors,160968,124141,36827,49.20989,37.95142,11.25846
+Canada,2021/2/13,all,group1,748931,589654,159277,,,
+Canada,2021/2/13,all,group2,497311,400912,96399,3.815321,3.075473,0.739848
